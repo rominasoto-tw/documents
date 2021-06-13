@@ -6,16 +6,13 @@ subtitle: Ths is a digital version of my CV. Further information is available on
 
 ---
 <center><p>
-<div>
-  <a href="/personal-information">Personal Infortmation</a> - 
-  <a href="cv#work-experience">Work Experience</a> - 
-  <a href="cv#education">Education</a>
-</div>
+
+[Personal Information](/documents/cv#personal-information) - 
+[Work Experience](/documents/cv#work-experience) - 
+[Education](/documents/cv#education)
+
 </p></center>
 ---
-
-[Personal Information](/documents/cv#personal-information)
-
 
 ## Personal Information
 
