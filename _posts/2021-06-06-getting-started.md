@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started
-subtitle: Starting my first an online portfolio
+subtitle: Starting my first online portfolio
 cover-img: /assets/img/nebula.jpg
 thumbnail-img: /assets/img/romidocu-welcome.png
 share-img: /assets/img/nebula.jpg

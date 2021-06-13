@@ -162,10 +162,48 @@ this is an example
 
 \```
 
-Te text will display "boxed", like this:
+The text will display "boxed", like this:
 
 ```
 this is an example
+```
+
+You can also add syntax highlighting to the code:
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+By writing this:
+
+\```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+\```
+
+You can also add line numbers to the code:
+
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+By writing this:
+
+```
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
 ```
 
 &nbsp;
@@ -297,4 +335,24 @@ User this format:
 ```
 
 Consider that `[x]` will show the task as selected, while `[ ]` will show the task as unselected.
+
+&nbsp;
+
+## Boxes
+You can add notification, warning and error boxes like this:
+
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.
 
