@@ -14,9 +14,9 @@ subtitle: Ths is a digital version of my CV. Further information is available on
 </p></center>
 ---
 
-[Personal Information](cv#personal-information)
+[Personal Information](personal-information)
 
-<id = "personal-information">
+
 ## Personal Information
 
 <img src="https://media-exp3.licdn.com/dms/image/C4D03AQFq2e2CdTR5vQ/profile-displayphoto-shrink_200_200/0/1539183976974?e=1628726400&v=beta&t=ekAjlFzb3AWZRc4QVUoBb6rA3whMXBeyWGHv6YBjSmU" alt="My Profile Pic" align="right" />
