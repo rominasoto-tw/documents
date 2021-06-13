@@ -15,10 +15,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  My CV: "cv"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Using Markdown: "using-markdown"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
 
 # --- Logo --- #
 
