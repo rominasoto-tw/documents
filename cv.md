@@ -1,7 +1,17 @@
 ---
 layout: page
 title: CV
-subtitle: Ths is a digital version of my CV. Further information is available in my LinkedIn.
+subtitle: Ths is a digital version of my CV. Further information is available on my LinkedIn.
+---
+
+---
+<center><p>
+<div class="sidenav">
+  <a href="cv#personal-information">Personal Infortmation</a> - 
+  <a href="cv#work-experience">Work Experience</a> - 
+  <a href="cv#education">Education</a>
+</div>
+</p></center>
 ---
 
 ## Personal Information
@@ -60,3 +70,7 @@ I was also in charge of training sessions, demos, and system walkthroughs, for b
 * **Location:** Buenos Aires, Argentina.
 * **Duties:** I was the Head of Practical Classes for a university subject called *Informatics, Education and Society* - an
 analysis of the impact of new tech on the dynamics between people, education, markets. My tasks included managing practical classes teachers, designing and teaching theoretical classes, research for University Projects, and tutoring grad thesis students.
+
+&nbsp;
+
+## Education
