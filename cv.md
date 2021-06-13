@@ -14,7 +14,7 @@ subtitle: Ths is a digital version of my CV. Further information is available on
 </p></center>
 ---
 
-[Personal Information](personal-information)
+[Personal Information](/cv#personal-information)
 
 
 ## Personal Information
