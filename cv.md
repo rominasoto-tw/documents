@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: Ths is a digital version of my CV. Further information is available on my LinkedIn.
+subtitle: This is a digital version of my CV. Further information is available on my LinkedIn.
 ---
 
 ---

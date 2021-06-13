@@ -160,7 +160,7 @@ To write a code block write this:
 
 this is an example
 
-\```
+```
 
 The text will display "boxed", like this:
 
@@ -179,12 +179,12 @@ foo(3)
 
 By writing this:
 
-\```javascript
+```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-\```
+```
 
 You can also add line numbers to the code:
 
