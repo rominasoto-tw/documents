@@ -17,7 +17,7 @@ navbar-links:
   My CV: "cv"
   Resources:
     - Using Markdown: "using-markdown"
-    - Ubuntu: "/docs/ubuntuconsole"
+    - Ubuntu: "docs/ubuntuconsole"
   My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
 
 # --- Logo --- #
