@@ -106,7 +106,7 @@ post_search: true
 navbar-img: "/assets/img/bgimage.jpg"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#cbf2e0"
+page-col: "#e1f9ee"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
