@@ -4,17 +4,14 @@ title: CV
 subtitle: Ths is a digital version of my CV. Further information is available on my LinkedIn.
 ---
 
-<p align="center">
-
 ---
 
 [Personal Information](/documents/cv#personal-information) - 
 [Work Experience](/documents/cv#work-experience) - 
-[Education](/documents/cv#education)
+[Education](/documents/cv#education) - 
+<a href="https://www.linkedin.com/in/romina-soto-098b4139/" target="_blank">Contact</a>
 
 ---
-
-</p>
 
 ## Personal Information
 
