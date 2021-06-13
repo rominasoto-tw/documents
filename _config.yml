@@ -17,8 +17,11 @@ navbar-links:
   My CV: "cv"
   Resources:
     - Using Markdown: "using-markdown"
-    - Ubuntu: "/docs/ubuntu-console"
-    - Ubuntu Console: "ubuntu-console"
+    - Useful Tools: "useful-tools"
+    - Create a GitHub Repository: "create-git-repo"
+    - Clone a Repository: "clone-repo"
+    - Fork a Repository: "fork-repo"
+    - Git Cheat Sheet: "git-cheat-sheet"
   My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
 
 # --- Logo --- #
