@@ -6,14 +6,18 @@ subtitle: Ths is a digital version of my CV. Further information is available on
 
 ---
 <center><p>
-<div class="sidenav">
-  <a href="cv#personal-information">Personal Infortmation</a> - 
+<div>
+
+[Personal Infortmation](/cv#personal-information)
+
+  <a href="/personal-information">Personal Infortmation</a> - 
   <a href="cv#work-experience">Work Experience</a> - 
   <a href="cv#education">Education</a>
 </div>
 </p></center>
 ---
 
+<id="personal-information">
 ## Personal Information
 
 <img src="https://media-exp3.licdn.com/dms/image/C4D03AQFq2e2CdTR5vQ/profile-displayphoto-shrink_200_200/0/1539183976974?e=1628726400&v=beta&t=ekAjlFzb3AWZRc4QVUoBb6rA3whMXBeyWGHv6YBjSmU" alt="My Profile Pic" align="right" />
