@@ -14,11 +14,10 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   My CV: "cv"
   Resources:
     - Using Markdown: "using-markdown"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Ubuntu: "/docs/ubuntuconsole"
   My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
 
 # --- Logo --- #
