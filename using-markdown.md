@@ -1,9 +1,3 @@
----
-layout: page
-title: Using Markdown
-subtitle: A set of useful tips for beginners.
----
-
 <!-- Side navigation -->
 <div class="sidenav">
   <a href="#">About</a>
@@ -11,6 +5,14 @@ subtitle: A set of useful tips for beginners.
   <a href="#">Clients</a>
   <a href="#">Contact</a>
 </div>
+
+---
+layout: page
+title: Using Markdown
+subtitle: A set of useful tips for beginners.
+---
+
+
 
 When I made the professional move from creating and editing PDF manuals to online documentation, the first challenge I encountered was the use of *Markdown*. While *Markdown* isn't difficult to use per se, at the end of the day I did need to know a bunch of ways to add or format certain content, so that the online output of my production looked the way I wanted it to.
 
