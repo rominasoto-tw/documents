@@ -156,11 +156,7 @@ To write `inline code` write this:
 
 To write a code block write this:
 
-\```
-
-this is an example
-
-```
+![codeblock](/assets/img/img-code-01.png)
 
 The text will display "boxed", like this:
 
@@ -179,12 +175,7 @@ foo(3)
 
 By writing this:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+![codeblock with highlights](/assets/img/img-code-03.png)
 
 You can also add line numbers to the code:
 
@@ -197,14 +188,7 @@ foo(3)
 
 By writing this:
 
-```
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-```
+![codeblock with line numbers](/assets/img/img-code-02.png)
 
 &nbsp;
 
