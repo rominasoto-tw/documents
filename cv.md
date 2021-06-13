@@ -4,6 +4,8 @@ title: CV
 subtitle: Ths is a digital version of my CV. Further information is available on my LinkedIn.
 ---
 
+<p align="center">
+
 ---
 
 [Personal Information](/documents/cv#personal-information) - 
@@ -11,6 +13,8 @@ subtitle: Ths is a digital version of my CV. Further information is available on
 [Education](/documents/cv#education)
 
 ---
+
+</p>
 
 ## Personal Information
 
