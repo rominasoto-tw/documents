@@ -5,13 +5,11 @@ subtitle: Ths is a digital version of my CV. Further information is available on
 ---
 
 ---
-<center><p>
 
 [Personal Information](/documents/cv#personal-information) - 
 [Work Experience](/documents/cv#work-experience) - 
 [Education](/documents/cv#education)
 
-</p></center>
 ---
 
 ## Personal Information
