@@ -8,7 +8,23 @@ When I made the professional move from creating and editing PDF manuals to onlin
 
 In order to make this learning curve easier - and faster! - for me, I created a small *Markdown cheat sheet*. I kept it by my laptop and consulted it as needed. Before long, I found that I remembered what I had to do, and didnt need to consult my cheat sheet anymore.
 
-This document offers you the same cheat sheet, so you can use it whiel you learn, just like I did. Good luck!
+This document offers you the same cheat sheet, so you can use it while you learn, just like I did. Good luck!
+
+---
+
+[Headings](/documents/using-markdown#headings) - 
+[Text Style](/documents/using-markdown#text-style) - 
+[Lists](/documents/using-markdown#lists) - 
+[Code](/documents/using-markdown#code) - 
+[Horizontal Rule](/documents/using-markdown#horizontal-rule) - 
+[Links](/documents/using-markdown#links) - 
+[Images](/documents/using-markdown#images) - 
+[Line Spacing](/documents/using-markdown#lines-spacing) - 
+[Tables](/documents/using-markdown#tables) - 
+[Tasks Lists](/documents/using-markdown#tasks-lists) - 
+[Boxes](/documents/using-markdown#boxes)
+
+---
 
 ## Headings
 
