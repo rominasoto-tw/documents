@@ -4,7 +4,7 @@ title: Create a GitHub Repository
 subtitle: A set of useful tips for beginners.
 ---
 
-To create a GitHub repository locate the ![Plus](/assets/img/create-git-repo/button-plus.png) button. Click on it to display the menu then select the **New repository** option.
+To create a GitHub repository, locate the ![Plus](/assets/img/create-git-repo/button-plus.png) button. Click on it to display the menu then select the **New repository** option.
 
 ![Create a Repository - Menu options](/assets/img/create-git-repo/image-1.png)
 
@@ -12,7 +12,7 @@ This will display the **Create a new repository** screen.
 
 ![Create a Repository - Create a new repository](/assets/img/create-git-repo/image-2.png)
 
-Here, you need to first enter a name for your repository. If the name is available, a green tick symbol will indicate so.
+Here, you must first enter a name for your repository. If the name is available, a green tick symbol will indicate so.
 
 ![Create a Repository - Name available](/assets/img/create-git-repo/image-3.png)
 
@@ -26,3 +26,7 @@ This screen contains the following fields:
 * **Choose a license:** optional checkbox. This option lets you choose a license, which tells others what they can and can't do with your code.
 
 After you've completed the required information on this screen, and selected the desired options, click on ![Create Repo Button](/assets/img/create-git-repo/button-create-repo.png) to create your repository.
+
+The contents of your newly created repository will display as a result, and you can start working on it:
+
+![Create a Repository - New repository created](/assets/img/create-git-repo/image-4.png)
