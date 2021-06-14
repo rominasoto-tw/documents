@@ -18,9 +18,10 @@ navbar-links:
   Resources:
     - Using Markdown: "using-markdown"
     - Useful Tools: "useful-tools"
+  Git HowTo:
     - Create a GitHub Repository: "create-git-repo"
-    - Import a Repository: "import-repo"
-    - Fork a Repository: "fork-repo"
+    - Import a GitHub Repository: "import-repo"
+    - Fork a GitHub Repository: "fork-repo"
     - Clone a Repository: "clone-repo"
     - Git Cheat Sheet: "git-cheat-sheet"
   My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
