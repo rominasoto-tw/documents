@@ -4,12 +4,6 @@ title: Using Markdown
 subtitle: A set of useful tips for beginners.
 ---
 
-When I made the professional move from creating and editing PDF manuals to online documentation, the first challenge I encountered was the use of *Markdown*. While *Markdown* isn't difficult to use per se, at the end of the day I did need to know a bunch of ways to add or format certain content, so that the online output of my production looked the way I wanted it to.
-
-In order to make this learning curve easier - and faster! - for me, I created a small *Markdown cheat sheet*. I kept it by my laptop and consulted it as needed. Before long, I found that I remembered what I had to do, and didnt need to consult my cheat sheet anymore.
-
-This document offers you the same cheat sheet, so you can use it while you learn, just like I did. Good luck!
-
 ---
 
 [Headings](/documents/using-markdown#headings) - 
