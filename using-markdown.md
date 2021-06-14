@@ -156,7 +156,7 @@ To write `inline code` write this:
 
 To write a code block write this:
 
-![codeblock](/assets/img/img-code-01.png)
+![codeblock](/assets/img/using-markdown/img-code-01.png)
 
 The text will display "boxed", like this:
 
@@ -175,7 +175,7 @@ foo(3)
 
 By writing this:
 
-![codeblock with highlights](/assets/img/img-code-03.png)
+![codeblock with highlights](/assets/img/using-markdown/img-code-03.png)
 
 You can also add line numbers to the code:
 
@@ -188,7 +188,7 @@ foo(3)
 
 By writing this:
 
-![codeblock with line numbers](/assets/img/img-code-02.png)
+![codeblock with line numbers](/assets/img/using-markdown/img-code-02.png)
 
 &nbsp;
 
