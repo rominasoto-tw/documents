@@ -4,7 +4,7 @@ title: Create a GitHub Repository
 subtitle: A set of useful tips for beginners.
 ---
 
-![Plus Button](/assets/img/button-plus.png "Plus Icon")
+![Plus Button](/assets/img/button-plus.png)
 
 ![Plus Button](/assets/img/create-git-repo-image-1.png "Plus Icon")
 
