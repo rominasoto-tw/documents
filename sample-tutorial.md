@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample Markdown step-by-step Tutorial
+title: Create a GitHub Repository
 subtitle: This is a sample tutorial on how to create a GitHub Repository that I created using markdown.
 ---
 
