@@ -19,8 +19,8 @@ navbar-links:
     - Using Markdown: "markdown-sample"
     - Create a GitHub Repository: "sample-tutorial"
   Confluence: "https://rominasoto.atlassian.net/wiki/spaces/ROM/overview"
-  PDF:
-    - PDF Samples: "pdf-samples"
+  PDF Samples:
+    - View PDF Samples: "pdf-samples"
   My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
 
 # --- Logo --- #

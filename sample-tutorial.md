@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sample Markdown step-by-step Tutorial
-subtitle: Create a GitHub Repository
+subtitle: This is a sample tutorial on how to create a GitHub Repository that I created using markdown.
 ---
 
 To create a GitHub repository, locate the ![Plus](/assets/img/create-git-repo/button-plus.png) button. Click on it to display the menu then select the **New repository** option.
