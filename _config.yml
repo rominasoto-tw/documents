@@ -15,15 +15,12 @@ author: Romina Soto
 
 navbar-links:
   My CV: "cv"
-  Resources:
-    - Using Markdown: "using-markdown"
-    - Useful Tools: "useful-tools"
-  Git HowTo:
-    - Create a GitHub Repository: "create-git-repo"
-    - Import a GitHub Repository: "import-repo"
-    - Fork a GitHub Repository: "fork-repo"
-    - Clone a Repository: "clone-repo"
-    - Git Cheat Sheet: "git-cheat-sheet"
+  Markdown:
+    - Using Markdown: "markdown-sample"
+    - Create a GitHub Repository: "sample-tutorial"
+  Confluence: "https://rominasoto.atlassian.net/wiki/spaces/ROM/overview"
+  PDF:
+    - PDF Samples: "pdf-samples"
   My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
 
 # --- Logo --- #
@@ -104,14 +101,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-img: "/assets/img/bgimage.jpg"
+navbar-col: "#39d494"
 navbar-text-col: "#252525"
 navbar-border-col: "#DDDDDD"
 page-col: "#e1f9ee"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#014857"
-footer-img: "/assets/img/bgimage.jpg"
+footer-col: "#39d494"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
